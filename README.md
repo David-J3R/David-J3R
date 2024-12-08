@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **About Me 👩‍💻🌱
 Hi there! I'm currently a Digital Business & Data Science student at the University of Europe for Applied Sciences and a Marketing Data Analyst at SER Group.
 
@@ -25,4 +24,3 @@ Data science & AI projects that make a positive impact
 Open-source tools for sustainability
 Collaborations in tech-for-good initiatives
 Let’s connect and build something impactful together! 🚀
--->
