@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**About Me 👩‍💻🌱
+About Me 👩‍💻🌱
 Hi there! I'm currently a Digital Business & Data Science student at the University of Europe for Applied Sciences and a Marketing Data Analyst at SER Group.
 
 💡 What drives me?
