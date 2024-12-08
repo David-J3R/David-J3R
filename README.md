@@ -12,7 +12,7 @@ I'm diving into the fascinating world of AI because I absolutely love it, especi
 - Programming: **Python**, **R**  
 - Databases: **PostgreSQL**  
 - AI & Machine Learning: **TensorFlow**, **PyTorch**, **scikit-learn**, and other general AI tools  
-- Data Visualization: **Matplotlib**, **Seaborn**, **Power BI**, and more  
+- Data Visualization: **Matplotlib**, **Pandas**, **Power BI**, and more  
 
 🌍 **Why sustainability?**  
 I’m deeply committed to addressing climate change and advancing sustainability through green skills and innovative approaches. I believe technology can empower us to build a better, more sustainable future.  
