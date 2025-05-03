@@ -6,13 +6,13 @@ Hi there! I'm currently a **Digital Business & Data Science student** at the Uni
 I'm passionate about leveraging data, technology, and AI to create meaningful, sustainable solutions. My academic journey and hands-on projects have honed my skills in **analytical thinking**, **strategic planning**, and **collaboration**—all essential for tackling complex challenges.  
 
 🧠 **Exploring AI**  
-I'm diving into the fascinating world of AI because I absolutely love it, especially the **math behind it**! My favorite thing is taking on challenges that push me to grow, learn, and innovate.  
+I'm diving into the fascinating world of AI because I love it, especially the **math behind it**! My favorite thing is taking on challenges that push me to grow, learn, and innovate.  
 
 ⚙️ **Tools I work with:**  
-- Programming: **Python**, **R**  
-- Databases: **PostgreSQL**  
+- Programming: **Python**, **R** , **Js**, **HTML**
+- Databases: **PostgreSQL**, **BigQuery**
 - AI & Machine Learning: **TensorFlow**, **PyTorch**, **scikit-learn**, and other general AI tools  
-- Data Visualization: **Matplotlib**, **Pandas**, **Power BI**, and more  
+- Data Visualization: **Matplotlib**, **Pandas**, **Power BI**, **Looker Studio**, and more  
 
 🌍 **Why sustainability?**  
 I’m deeply committed to addressing climate change and advancing sustainability through green skills and innovative approaches. I believe technology can empower us to build a better, more sustainable future.  
