@@ -18,9 +18,8 @@ I'm diving into the fascinating world of AI because I love it, especially the **
 I’m deeply committed to addressing climate change and advancing sustainability through green skills and innovative approaches. I believe technology can empower us to build a better, more sustainable future.  
 
 📚 **Currently exploring:**  
-- Data science & AI projects that make a positive impact  
-- Open-source tools for sustainability  
-- Collaborations in tech-for-good initiatives  
+- Data science & AI projects  
+- Exploring the world of **Quantitative Trading**  
 
 Let’s connect and build something impactful together! 🚀  
 
