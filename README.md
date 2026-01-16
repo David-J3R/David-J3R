@@ -1,6 +1,6 @@
 ### About Me 👩‍💻🌱  
 
-Hi there! I'm currently a **Digital Business & Data Science student** at the University of Europe for Applied Sciences and a **Marketing Data Analyst** at SER Group.  
+Hi there! I'm currently a **Digital Business & Data Science student** at the University of Europe for Applied Sciences and a **Data Analyst** at SER Group.  
 
 💡 **What drives me?**  
 I'm passionate about leveraging data, technology, and AI to create meaningful, sustainable solutions. My academic journey and hands-on projects have honed my skills in **analytical thinking**, **strategic planning**, and **collaboration**—all essential for tackling complex challenges.  
